@@ -1,0 +1,3 @@
+MODEL_NAME = "qwen2.5-coder:1.5b"
+ASSISTANT_NAME = "Joo"
+MAX_HISTORY = 10
